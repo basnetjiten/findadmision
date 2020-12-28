@@ -1,0 +1,6 @@
+enum LoginType {
+  INITIAL,
+  AUTHENTICATED,
+  LOGOUT,
+  REGISTRATION
+}

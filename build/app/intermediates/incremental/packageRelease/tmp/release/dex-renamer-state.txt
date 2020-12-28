@@ -1,0 +1,4 @@
+#Wed Dec 09 09:38:03 NPT 2020
+base.0=D\:\\New folder\\findadmission_affiliate\\build\\app\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

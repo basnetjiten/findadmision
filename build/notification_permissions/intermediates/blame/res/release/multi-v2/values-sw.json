@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\New folder\\findadmission_affiliate\\build\\notification_permissions\\intermediates\\res\\merged\\release\\values-sw\\values-sw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spin5\\.gradle\\caches\\transforms-2\\files-2.1\\85c1fdcc858bf9759991b0f1aa50a8b3\\core-1.2.0\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\New folder\\findadmission_affiliate\\build\\notification_permissions\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw\\values-sw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spin5\\.gradle\\caches\\transforms-2\\files-2.1\\85c1fdcc858bf9759991b0f1aa50a8b3\\core-1.2.0\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

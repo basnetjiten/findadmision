@@ -1,0 +1,10 @@
+#Wed Dec 09 15:12:04 NPT 2020
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\New folder\\findadmission_affiliate\\build\\app\\intermediates\\dex\\debug\\out\\classes3.dex
+base.1=D\:\\New folder\\findadmission_affiliate\\build\\app\\intermediates\\dex\\debug\\out\\classes2.dex
+base.0=D\:\\New folder\\findadmission_affiliate\\build\\app\\intermediates\\dex\\debug\\out\\classes.dex

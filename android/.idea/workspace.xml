@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9c9f20-766f-4b25-a75e-7a433c263ba0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/authentication_bloc/authentication_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/authentication_bloc/authentication_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/authentication_bloc/authentication_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/authentication_bloc/authentication_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/login_bloc/login_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/login_bloc/login_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/office_list_bloc/office_list_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/office_list_bloc/office_list_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/office_list_bloc/office_list_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/office_list_bloc/office_list_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/student_bloc/add_students_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/students/student_bloc/add_students_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/student_bloc/add_students_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/students/student_bloc/add_students_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/student_bloc/add_students_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/students/student_bloc/add_students_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/bloc/univ_filter_bloc/univ_filter_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/bloc/univ_filter_bloc/univ_filter_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/constants/api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/constants/api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/app_check_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/app_check_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/app_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/app_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/auth_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/auth_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/office_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/office_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/student_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/student_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasources/univ_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasources/univ_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dto/institutes/courses.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/dto/institutes/courses.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dto/students/add_student.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/dto/students/add_student.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helpers/appwidget_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helpers/appwidget_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helpers/get_it.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helpers/get_it.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/helpers/router.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/helpers/router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/app_check.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/app_check.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/app_check.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/app_check.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/auth/fcm_token_check.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/auth/fcm_token_check.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/institute/institute_detail_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/institute/institute_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/institute/loaddata_label.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/institute/loaddata_label.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/univ.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/models/univ.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/repository/app_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/repository/app_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/repository/auth_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/repository/auth_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/repository/office_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/repository/office_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/repository/student_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/repository/student_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/repository/univ_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/repository/univ_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/affiliate_headers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/utils/affiliate_headers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/affiliate_methods.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/utils/affiliate_methods.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/bottom_nav.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/bottom_nav.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/institutes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/institutes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/reset_pw.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/reset_pw.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/morepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/morepage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/application_step_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/application_step_one.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/application_step_two.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/application_step_two.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/colleges_list_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/colleges_list_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/doc_upload_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/doc_upload_form.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/dropdowns/course_dropdown.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/dropdowns/course_dropdown.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/dropdowns/funding_source_dd.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/dropdowns/funding_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/institute_details.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/institute_details.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/max_3_select_courses_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/max_3_select_courses_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/pagination.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/pagination.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/course_partials/courses.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/course_partials/courses.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/overview_partials/college_image_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/overview_partials/college_image_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/requirement_partials/mandatory_no_mandatory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/partials/requirement_partials/mandatory_no_mandatory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/preview_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/preview_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/work_experience_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/institute_cards/work_experience_form.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/office_cards/add_office.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/office_cards/add_office.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/office_cards/edit_office.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/office_cards/edit_office.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/office_cards/my_office.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/office_cards/my_office.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/office_cards/my_office_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/more_card/office_cards/my_office_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/add_student_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/add_student_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/app_doc_tabbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/app_doc_tabbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/profile/profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/profile/profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/student_index.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/student_index.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/student_list_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/bottom_navigation/screens/students_card/student_list_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/signup/signup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/signup/signup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/splashes/network_spinner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/splashes/network_spinner.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/views/splashes/new_app_update.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/views/splashes/new_app_update.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="42dede04" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k8EjbCylfQ1uBj0RHjF1z02MfM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9c9f20-766f-4b25-a75e-7a433c263ba0" name="Default Changelist" comment="" />
+      <created>1605073953333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605073953333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

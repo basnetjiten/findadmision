@@ -1,0 +1,171 @@
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:37
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:56
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:417
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:301
+-keep class androidx.work.impl.WorkManagerInitializer { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:330
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:340
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:360
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:350
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:380
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:369
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:308
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:313
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:389
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:319
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:325
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:37
+-keep class com.app.findadmissionaffiliate.Application { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:66
+-keep class com.app.findadmissionaffiliate.MainActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:245
+-keep class com.crazecoder.openfile.FileProvider { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:400
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:413
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:407
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:285
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:270
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:260
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:266
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:201
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:164
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:182
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:113
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:276
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:215
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:290
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:243
+-keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:238
+-keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:234
+-keep class com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:47
+-keep class com.pichillilorenzo.flutter_inappwebview.InAppWebViewFileProvider { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:151
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:224
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:255
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:43
+-keep class android.widget.SearchView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_title_material.xml:56
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_cascading_menu_item_layout.xml:20
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\b93302df5c14ac45b804ba9989a8e00b\browser-1.2.0\res\layout\browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\spin5\.gradle\caches\transforms-2\files-2.1\2f0ad88ba24ab1c45aab38657a6bb1ae\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\layout\activity_web_view.xml:13
+-keep class com.pichillilorenzo.flutter_inappwebview.InAppWebView.InAppWebView { <init>(...); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:36
+-keepclassmembers class * { *** closeButtonClicked(android.view.MenuItem); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:8
+-keepclassmembers class * { *** goBackButtonClicked(android.view.MenuItem); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:15
+-keepclassmembers class * { *** goForwardButtonClicked(android.view.MenuItem); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:29
+-keepclassmembers class * { *** reloadButtonClicked(android.view.MenuItem); }
+
+# Referenced at D:\New folder\findadmission_affiliate\build\flutter_inappwebview\intermediates\packaged_res\release\menu\menu_main.xml:22
+-keepclassmembers class * { *** shareButtonClicked(android.view.MenuItem); }
+
